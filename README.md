@@ -40,3 +40,6 @@ Rewrite my resume to match this job description.
 
 Result:
 The skill should not be triggered because rewriting resumes is outside its scope. The skill is designed only for keyword comparison.
+
+## Video Link
+https://youtu.be/HaB9stfjICA
