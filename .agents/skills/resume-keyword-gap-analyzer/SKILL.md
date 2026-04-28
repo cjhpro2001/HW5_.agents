@@ -87,3 +87,13 @@ The skill returns:
 - A list of matching skills
 - A list of missing skills
 - A match score
+
+## Prompts
+- Compare my resume with this job description and identify missing skills.
+- The skill correctly identifies overlapping and missing keywords and computes a match score.
+
+- Compare this resume: "student" with a job requiring Python, SQL, and machine learning.
+- With very limited input, the match score is low, showing the limitation of keyword-based comparison.
+
+- Rewrite my resume to match this job description.
+- This request is outside the scope of the skill. The skill focuses on keyword comparison, not rewriting resumes.
